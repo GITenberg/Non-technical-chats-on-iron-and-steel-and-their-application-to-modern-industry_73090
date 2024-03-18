@@ -1,11 +1,16 @@
 _repo: Non-technical-chats-on-iron-and-steel-and-their-application-to-modern-industry_73090
 _version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 73090-h/images/cover.jpg
 creator:
   author:
     agent_name: Spring, la Verne W.
     gutenberg_agent_id: '56941'
     url: http://www.gutenberg.org/2009/agents/56941
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/73090#Non-technical-chats-on-iron-and-steel-and-their-application-to-modern-industry
 gutenberg_issued: '2024-03-03'
 gutenberg_type: Text
 identifiers:
